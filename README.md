@@ -12,3 +12,7 @@ conda create melissa
 - 대화 내용 전체를 크로마 db에 넣지 말고 요약한 내용을 넣어라
 - 프롬프트 깎아라 (현재는 "저번 주에도 그랬잖아" 이런 식의 하드코딩이 되어있는데 이건 좋지 않음)
 - 사용자의 답변이 왔을 때 크로마 디비를 훑을지 말지 yes or no를 출력하는 llm이 필요함.
+
+### 참고 자료
+[EP01. openai 의 새로운 기능 assistant API 완벽히 이해해보기](https://www.youtube.com/watch?v=-Wne4a-8RlY&list=TLPQMjQwMTIwMjVF8yDU1ax6MQ&index=1)   
+[공식문서](https://platform.openai.com/docs/assistants/overview)     
